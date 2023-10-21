@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/bin/Debug/net6.0/01.FreezingWeather
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/bin/Debug/net6.0/01.FreezingWeather.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/bin/Debug/net6.0/01.FreezingWeather.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/bin/Debug/net6.0/01.FreezingWeather.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/bin/Debug/net6.0/01.FreezingWeather.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/obj/Debug/net6.0/01.FreezingWeather.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/obj/Debug/net6.0/01.FreezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/obj/Debug/net6.0/01.FreezingWeather.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/obj/Debug/net6.0/01.FreezingWeather.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/obj/Debug/net6.0/01.FreezingWeather.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/obj/Debug/net6.0/01.FreezingWeather.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/obj/Debug/net6.0/refint/01.FreezingWeather.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/obj/Debug/net6.0/01.FreezingWeather.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/obj/Debug/net6.0/01.FreezingWeather.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/obj/Debug/net6.0/ref/01.FreezingWeather.dll
