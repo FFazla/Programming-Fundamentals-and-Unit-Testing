@@ -45,6 +45,20 @@ class Program
         {
             Console.WriteLine("Out of range");
         }
+
+
+        /* string[] numberWords = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
+
+            int n = int.Parse(Console.ReadLine());
+
+            if (n >= 0 && n <= 9)
+            {
+                Console.WriteLine(numberWords[n]);
+            }
+            else
+            {
+                Console.WriteLine("Out of range");
+            }*/
     }
 }
 
