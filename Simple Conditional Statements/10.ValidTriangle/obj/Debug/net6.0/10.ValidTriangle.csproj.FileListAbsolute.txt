@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/bin/Debug/net6.0/10.ValidTriangle
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/bin/Debug/net6.0/10.ValidTriangle.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/bin/Debug/net6.0/10.ValidTriangle.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/bin/Debug/net6.0/10.ValidTriangle.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/bin/Debug/net6.0/10.ValidTriangle.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/obj/Debug/net6.0/10.ValidTriangle.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/obj/Debug/net6.0/10.ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/obj/Debug/net6.0/10.ValidTriangle.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/obj/Debug/net6.0/10.ValidTriangle.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/obj/Debug/net6.0/10.ValidTriangle.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/obj/Debug/net6.0/10.ValidTriangle.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/obj/Debug/net6.0/refint/10.ValidTriangle.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/obj/Debug/net6.0/10.ValidTriangle.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/obj/Debug/net6.0/10.ValidTriangle.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/obj/Debug/net6.0/ref/10.ValidTriangle.dll

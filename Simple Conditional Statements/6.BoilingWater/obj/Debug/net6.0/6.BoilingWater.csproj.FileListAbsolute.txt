@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/bin/Debug/net6.0/6.BoilingWater
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/bin/Debug/net6.0/6.BoilingWater.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/bin/Debug/net6.0/6.BoilingWater.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/bin/Debug/net6.0/6.BoilingWater.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/bin/Debug/net6.0/6.BoilingWater.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/obj/Debug/net6.0/6.BoilingWater.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/obj/Debug/net6.0/6.BoilingWater.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/obj/Debug/net6.0/6.BoilingWater.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/obj/Debug/net6.0/6.BoilingWater.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/obj/Debug/net6.0/6.BoilingWater.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/obj/Debug/net6.0/6.BoilingWater.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/obj/Debug/net6.0/refint/6.BoilingWater.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/obj/Debug/net6.0/6.BoilingWater.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/obj/Debug/net6.0/6.BoilingWater.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/obj/Debug/net6.0/ref/6.BoilingWater.dll

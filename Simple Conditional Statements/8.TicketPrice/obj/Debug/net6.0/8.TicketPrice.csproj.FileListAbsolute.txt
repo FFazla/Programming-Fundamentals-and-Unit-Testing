@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/bin/Debug/net6.0/8.TicketPrice
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/bin/Debug/net6.0/8.TicketPrice.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/bin/Debug/net6.0/8.TicketPrice.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/bin/Debug/net6.0/8.TicketPrice.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/bin/Debug/net6.0/8.TicketPrice.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/obj/Debug/net6.0/8.TicketPrice.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/obj/Debug/net6.0/8.TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/obj/Debug/net6.0/8.TicketPrice.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/obj/Debug/net6.0/8.TicketPrice.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/obj/Debug/net6.0/8.TicketPrice.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/obj/Debug/net6.0/8.TicketPrice.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/obj/Debug/net6.0/refint/8.TicketPrice.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/obj/Debug/net6.0/8.TicketPrice.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/obj/Debug/net6.0/8.TicketPrice.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/8.TicketPrice/obj/Debug/net6.0/ref/8.TicketPrice.dll

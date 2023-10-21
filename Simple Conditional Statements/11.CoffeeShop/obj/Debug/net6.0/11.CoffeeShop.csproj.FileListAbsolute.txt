@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/bin/Debug/net6.0/11.CoffeeShop
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/bin/Debug/net6.0/11.CoffeeShop.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/bin/Debug/net6.0/11.CoffeeShop.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/bin/Debug/net6.0/11.CoffeeShop.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/bin/Debug/net6.0/11.CoffeeShop.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/obj/Debug/net6.0/11.CoffeeShop.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/obj/Debug/net6.0/11.CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/obj/Debug/net6.0/11.CoffeeShop.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/obj/Debug/net6.0/11.CoffeeShop.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/obj/Debug/net6.0/11.CoffeeShop.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/obj/Debug/net6.0/11.CoffeeShop.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/obj/Debug/net6.0/refint/11.CoffeeShop.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/obj/Debug/net6.0/11.CoffeeShop.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/obj/Debug/net6.0/11.CoffeeShop.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/obj/Debug/net6.0/ref/11.CoffeeShop.dll

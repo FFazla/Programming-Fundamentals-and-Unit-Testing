@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/bin/Debug/net6.0/4.GreaterNumber
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/bin/Debug/net6.0/4.GreaterNumber.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/bin/Debug/net6.0/4.GreaterNumber.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/bin/Debug/net6.0/4.GreaterNumber.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/bin/Debug/net6.0/4.GreaterNumber.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/obj/Debug/net6.0/4.GreaterNumber.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/obj/Debug/net6.0/4.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/obj/Debug/net6.0/4.GreaterNumber.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/obj/Debug/net6.0/4.GreaterNumber.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/obj/Debug/net6.0/4.GreaterNumber.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/obj/Debug/net6.0/4.GreaterNumber.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/obj/Debug/net6.0/refint/4.GreaterNumber.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/obj/Debug/net6.0/4.GreaterNumber.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/obj/Debug/net6.0/4.GreaterNumber.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/obj/Debug/net6.0/ref/4.GreaterNumber.dll
