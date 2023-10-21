@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/bin/Debug/net6.0/3.NumberasWords
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/bin/Debug/net6.0/3.NumberasWords.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/bin/Debug/net6.0/3.NumberasWords.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/bin/Debug/net6.0/3.NumberasWords.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/bin/Debug/net6.0/3.NumberasWords.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/obj/Debug/net6.0/3.NumberasWords.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/obj/Debug/net6.0/3.NumberasWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/obj/Debug/net6.0/3.NumberasWords.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/obj/Debug/net6.0/3.NumberasWords.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/obj/Debug/net6.0/3.NumberasWords.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/obj/Debug/net6.0/3.NumberasWords.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/obj/Debug/net6.0/refint/3.NumberasWords.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/obj/Debug/net6.0/3.NumberasWords.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/obj/Debug/net6.0/3.NumberasWords.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/obj/Debug/net6.0/ref/3.NumberasWords.dll
