@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{6D58F791-CCED-47E3-98E3-C59120812397}|Default">
+﻿<Properties StartupConfiguration="{49540A34-6AF8-4A72-AF14-AE66EC60E337}|Default">
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,10 +11,12 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.01.FreezingWeather PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4.GreaterNumber PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.12.CoffeeShopwithChecks FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>

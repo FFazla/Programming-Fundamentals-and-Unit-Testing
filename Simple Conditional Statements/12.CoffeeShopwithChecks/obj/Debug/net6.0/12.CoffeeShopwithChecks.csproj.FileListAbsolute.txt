@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/bin/Debug/net6.0/12.CoffeeShopwithChecks
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/bin/Debug/net6.0/12.CoffeeShopwithChecks.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/bin/Debug/net6.0/12.CoffeeShopwithChecks.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/bin/Debug/net6.0/12.CoffeeShopwithChecks.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/bin/Debug/net6.0/12.CoffeeShopwithChecks.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/obj/Debug/net6.0/12.CoffeeShopwithChecks.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/obj/Debug/net6.0/12.CoffeeShopwithChecks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/obj/Debug/net6.0/12.CoffeeShopwithChecks.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/obj/Debug/net6.0/12.CoffeeShopwithChecks.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/obj/Debug/net6.0/12.CoffeeShopwithChecks.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/obj/Debug/net6.0/12.CoffeeShopwithChecks.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/obj/Debug/net6.0/refint/12.CoffeeShopwithChecks.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/obj/Debug/net6.0/12.CoffeeShopwithChecks.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/obj/Debug/net6.0/12.CoffeeShopwithChecks.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/12.CoffeeShopwithChecks/obj/Debug/net6.0/ref/12.CoffeeShopwithChecks.dll
