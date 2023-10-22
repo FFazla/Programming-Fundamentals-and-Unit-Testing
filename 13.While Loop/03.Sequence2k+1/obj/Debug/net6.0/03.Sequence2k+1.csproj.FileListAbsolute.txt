@@ -1,0 +1,30 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/bin/Debug/net6.0/03.Sequence2k+1
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/bin/Debug/net6.0/03.Sequence2k+1.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/bin/Debug/net6.0/03.Sequence2k+1.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/bin/Debug/net6.0/03.Sequence2k+1.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/bin/Debug/net6.0/03.Sequence2k+1.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/obj/Debug/net6.0/refint/03.Sequence2k+1.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/03.Sequence2k+1/obj/Debug/net6.0/ref/03.Sequence2k+1.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/bin/Debug/net6.0/03.Sequence2k+1
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/bin/Debug/net6.0/03.Sequence2k+1.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/bin/Debug/net6.0/03.Sequence2k+1.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/bin/Debug/net6.0/03.Sequence2k+1.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/bin/Debug/net6.0/03.Sequence2k+1.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/obj/Debug/net6.0/refint/03.Sequence2k+1.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/obj/Debug/net6.0/03.Sequence2k+1.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/03.Sequence2k+1/obj/Debug/net6.0/ref/03.Sequence2k+1.dll

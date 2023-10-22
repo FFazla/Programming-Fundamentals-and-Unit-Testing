@@ -1,0 +1,30 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/bin/Debug/net6.0/04.SumDigits
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/bin/Debug/net6.0/04.SumDigits.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/bin/Debug/net6.0/04.SumDigits.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/bin/Debug/net6.0/04.SumDigits.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/bin/Debug/net6.0/04.SumDigits.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/obj/Debug/net6.0/04.SumDigits.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/obj/Debug/net6.0/04.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/obj/Debug/net6.0/04.SumDigits.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/obj/Debug/net6.0/04.SumDigits.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/obj/Debug/net6.0/04.SumDigits.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/obj/Debug/net6.0/04.SumDigits.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/obj/Debug/net6.0/refint/04.SumDigits.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/obj/Debug/net6.0/04.SumDigits.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/obj/Debug/net6.0/04.SumDigits.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/04.SumDigits/obj/Debug/net6.0/ref/04.SumDigits.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/bin/Debug/net6.0/04.SumDigits
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/bin/Debug/net6.0/04.SumDigits.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/bin/Debug/net6.0/04.SumDigits.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/bin/Debug/net6.0/04.SumDigits.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/bin/Debug/net6.0/04.SumDigits.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/obj/Debug/net6.0/04.SumDigits.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/obj/Debug/net6.0/04.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/obj/Debug/net6.0/04.SumDigits.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/obj/Debug/net6.0/04.SumDigits.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/obj/Debug/net6.0/04.SumDigits.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/obj/Debug/net6.0/04.SumDigits.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/obj/Debug/net6.0/refint/04.SumDigits.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/obj/Debug/net6.0/04.SumDigits.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/obj/Debug/net6.0/04.SumDigits.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/obj/Debug/net6.0/ref/04.SumDigits.dll

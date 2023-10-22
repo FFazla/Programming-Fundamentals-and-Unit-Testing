@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/bin/Debug/net6.0/06.ExamCountdown
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/bin/Debug/net6.0/06.ExamCountdown.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/bin/Debug/net6.0/06.ExamCountdown.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/bin/Debug/net6.0/06.ExamCountdown.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/bin/Debug/net6.0/06.ExamCountdown.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/obj/Debug/net6.0/06.ExamCountdown.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/obj/Debug/net6.0/06.ExamCountdown.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/obj/Debug/net6.0/06.ExamCountdown.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/obj/Debug/net6.0/06.ExamCountdown.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/obj/Debug/net6.0/06.ExamCountdown.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/obj/Debug/net6.0/06.ExamCountdown.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/obj/Debug/net6.0/refint/06.ExamCountdown.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/obj/Debug/net6.0/06.ExamCountdown.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/obj/Debug/net6.0/06.ExamCountdown.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/06.ExamCountdown/obj/Debug/net6.0/ref/06.ExamCountdown.dll

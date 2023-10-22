@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{CE1CD22D-CDE5-43C1-B1CD-0D82953EC79E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.NumberProcessor/Program.cs">
+    <Files>
+      <File FileName="05.NumberInRange/Program.cs" Line="1" Column="1" />
+      <File FileName="06.NumberProcessor/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="04.2.While-Loop-Lab" expanded="True">
+            <Node name="06.NumberProcessor" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.04.SumDigits PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.01.DecreasingNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.NumberInRange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/13.While Loop/04.SumDigits/Program.cs" relfile="04.SumDigits/Program.cs" line="6" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

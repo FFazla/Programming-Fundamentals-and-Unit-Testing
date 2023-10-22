@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{FE3D5647-B9BF-44EC-BF21-D15119E8ED3D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="07.LatinLetters/Program.cs">
+    <Files>
+      <File FileName="02.FirstNnumbersSum/Program.cs" Line="1" Column="1" />
+      <File FileName="01.NumbersInRange/Program.cs" Line="1" Column="1" />
+      <File FileName="03.SumNumbers/Program.cs" Line="11" Column="42" />
+      <File FileName="04.NumbersEndingIn7/Program.cs" Line="11" Column="12" />
+      <File FileName="05.NumbersFrom1toNover3/Program.cs" Line="1" Column="1" />
+      <File FileName="06.ExamCountdown/Program.cs" Line="1" Column="1" />
+      <File FileName="07.LatinLetters/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="04.1.For-Loop-Lab" expanded="True">
+            <Node name="02.FirstNnumbersSum" expanded="True" />
+            <Node name="04.NumbersEndingIn7" expanded="True" />
+            <Node name="05.NumbersFrom1toNover3" expanded="True" />
+            <Node name="06.ExamCountdown" expanded="True" />
+            <Node name="07.LatinLetters" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.NumbersInRange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

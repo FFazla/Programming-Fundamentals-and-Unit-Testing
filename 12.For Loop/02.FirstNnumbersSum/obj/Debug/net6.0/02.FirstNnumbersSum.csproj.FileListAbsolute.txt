@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/bin/Debug/net6.0/02.FirstNnumbersSum
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/bin/Debug/net6.0/02.FirstNnumbersSum.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/bin/Debug/net6.0/02.FirstNnumbersSum.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/bin/Debug/net6.0/02.FirstNnumbersSum.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/bin/Debug/net6.0/02.FirstNnumbersSum.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/obj/Debug/net6.0/02.FirstNnumbersSum.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/obj/Debug/net6.0/02.FirstNnumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/obj/Debug/net6.0/02.FirstNnumbersSum.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/obj/Debug/net6.0/02.FirstNnumbersSum.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/obj/Debug/net6.0/02.FirstNnumbersSum.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/obj/Debug/net6.0/02.FirstNnumbersSum.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/obj/Debug/net6.0/refint/02.FirstNnumbersSum.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/obj/Debug/net6.0/02.FirstNnumbersSum.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/obj/Debug/net6.0/02.FirstNnumbersSum.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/02.FirstNnumbersSum/obj/Debug/net6.0/ref/02.FirstNnumbersSum.dll

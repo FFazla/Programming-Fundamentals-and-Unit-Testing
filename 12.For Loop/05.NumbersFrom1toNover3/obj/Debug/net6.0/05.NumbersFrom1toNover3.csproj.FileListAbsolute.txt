@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/bin/Debug/net6.0/05.NumbersFrom1toNover3
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/bin/Debug/net6.0/05.NumbersFrom1toNover3.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/bin/Debug/net6.0/05.NumbersFrom1toNover3.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/bin/Debug/net6.0/05.NumbersFrom1toNover3.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/bin/Debug/net6.0/05.NumbersFrom1toNover3.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/obj/Debug/net6.0/05.NumbersFrom1toNover3.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/obj/Debug/net6.0/05.NumbersFrom1toNover3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/obj/Debug/net6.0/05.NumbersFrom1toNover3.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/obj/Debug/net6.0/05.NumbersFrom1toNover3.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/obj/Debug/net6.0/05.NumbersFrom1toNover3.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/obj/Debug/net6.0/05.NumbersFrom1toNover3.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/obj/Debug/net6.0/refint/05.NumbersFrom1toNover3.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/obj/Debug/net6.0/05.NumbersFrom1toNover3.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/obj/Debug/net6.0/05.NumbersFrom1toNover3.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.1.For-Loop-Lab/05.NumbersFrom1toNover3/obj/Debug/net6.0/ref/05.NumbersFrom1toNover3.dll

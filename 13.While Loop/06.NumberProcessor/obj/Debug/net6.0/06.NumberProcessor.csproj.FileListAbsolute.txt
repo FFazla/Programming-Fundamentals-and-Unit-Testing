@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/obj/Debug/net6.0/06.NumberProcessor.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/obj/Debug/net6.0/06.NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/obj/Debug/net6.0/06.NumberProcessor.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/obj/Debug/net6.0/06.NumberProcessor.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/obj/Debug/net6.0/06.NumberProcessor.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/bin/Debug/net6.0/06.NumberProcessor
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/bin/Debug/net6.0/06.NumberProcessor.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/bin/Debug/net6.0/06.NumberProcessor.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/bin/Debug/net6.0/06.NumberProcessor.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/bin/Debug/net6.0/06.NumberProcessor.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/obj/Debug/net6.0/06.NumberProcessor.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/obj/Debug/net6.0/refint/06.NumberProcessor.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/obj/Debug/net6.0/06.NumberProcessor.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/obj/Debug/net6.0/06.NumberProcessor.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/04.2.While-Loop-Lab/06.NumberProcessor/obj/Debug/net6.0/ref/06.NumberProcessor.dll
