@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/bin/Debug/net6.0/2.EvenOrOdd
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/bin/Debug/net6.0/2.EvenOrOdd.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/bin/Debug/net6.0/2.EvenOrOdd.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/bin/Debug/net6.0/2.EvenOrOdd.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/bin/Debug/net6.0/2.EvenOrOdd.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/obj/Debug/net6.0/2.EvenOrOdd.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/obj/Debug/net6.0/2.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/obj/Debug/net6.0/2.EvenOrOdd.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/obj/Debug/net6.0/2.EvenOrOdd.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/obj/Debug/net6.0/2.EvenOrOdd.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/obj/Debug/net6.0/2.EvenOrOdd.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/obj/Debug/net6.0/refint/2.EvenOrOdd.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/obj/Debug/net6.0/2.EvenOrOdd.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/obj/Debug/net6.0/2.EvenOrOdd.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/2.EvenOrOdd/obj/Debug/net6.0/ref/2.EvenOrOdd.dll

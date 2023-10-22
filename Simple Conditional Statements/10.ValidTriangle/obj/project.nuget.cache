@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H0F6dZGVPp6+Jkl68slgii2VEmW8fZJX0rU47sq5qLgfKLQtT7SUrAhj0z46hEwY4mSfgQZs8o+Xx912u273aA==",
+  "dgSpecHash": "uYy7gDJKDCyHny/OwO5vE7T1rg7aL4V9atS+yoS8tw57ZceFP+u8VKOp7Jn+LM6mF5INtbkznVm9cnPN09au6w==",
   "success": true,
-  "projectFilePath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/10.ValidTriangle.csproj",
+  "projectFilePath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/10.ValidTriangle/10.ValidTriangle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

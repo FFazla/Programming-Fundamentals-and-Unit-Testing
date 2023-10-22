@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/11.CoffeeShop.csproj",
+      "projectUniqueName": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/11.CoffeeShop/11.CoffeeShop.csproj",
       "projectName": "11.CoffeeShop",
-      "projectPath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/11.CoffeeShop.csproj",
+      "projectPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/11.CoffeeShop/11.CoffeeShop.csproj",
       "packagesPath": "/Users/fazla/.nuget/packages/",
-      "outputPath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/11.CoffeeShop/obj/",
+      "outputPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/11.CoffeeShop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fazla/.nuget/NuGet/NuGet.Config"

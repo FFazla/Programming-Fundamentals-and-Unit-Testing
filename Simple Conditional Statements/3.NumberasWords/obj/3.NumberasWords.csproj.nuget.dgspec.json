@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/3.NumberasWords.csproj": {}
+    "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/3.NumberasWords/3.NumberasWords.csproj": {}
   },
   "projects": {
-    "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/3.NumberasWords.csproj": {
+    "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/3.NumberasWords/3.NumberasWords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/3.NumberasWords.csproj",
+        "projectUniqueName": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/3.NumberasWords/3.NumberasWords.csproj",
         "projectName": "3.NumberasWords",
-        "projectPath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/3.NumberasWords.csproj",
+        "projectPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/3.NumberasWords/3.NumberasWords.csproj",
         "packagesPath": "/Users/fazla/.nuget/packages/",
-        "outputPath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/3.NumberasWords/obj/",
+        "outputPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/3.NumberasWords/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fazla/.nuget/NuGet/NuGet.Config"

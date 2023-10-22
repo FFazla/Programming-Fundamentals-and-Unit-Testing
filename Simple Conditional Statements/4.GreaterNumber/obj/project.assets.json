@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/4.GreaterNumber.csproj",
+      "projectUniqueName": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/4.GreaterNumber/4.GreaterNumber.csproj",
       "projectName": "4.GreaterNumber",
-      "projectPath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/4.GreaterNumber.csproj",
+      "projectPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/4.GreaterNumber/4.GreaterNumber.csproj",
       "packagesPath": "/Users/fazla/.nuget/packages/",
-      "outputPath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/4.GreaterNumber/obj/",
+      "outputPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/4.GreaterNumber/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fazla/.nuget/NuGet/NuGet.Config"

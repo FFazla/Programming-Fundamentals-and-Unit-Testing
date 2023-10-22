@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/10.ValidTriangle.csproj",
+      "projectUniqueName": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/10.ValidTriangle/10.ValidTriangle.csproj",
       "projectName": "10.ValidTriangle",
-      "projectPath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/10.ValidTriangle.csproj",
+      "projectPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/10.ValidTriangle/10.ValidTriangle.csproj",
       "packagesPath": "/Users/fazla/.nuget/packages/",
-      "outputPath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/10.ValidTriangle/obj/",
+      "outputPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/10.ValidTriangle/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fazla/.nuget/NuGet/NuGet.Config"

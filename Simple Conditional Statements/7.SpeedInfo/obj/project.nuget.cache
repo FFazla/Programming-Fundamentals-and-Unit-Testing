@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BcxqebQrbrZH1IwWMN7wKlc0MDPohtvnEduT3LsOjGexZ0k+YWWnU1rYffpM45MtO89ujbtmcUWSRQYJBoQq8g==",
+  "dgSpecHash": "dR+A9wYq6Sw2+LX6iWkj6yAldQpg/iFSyqqUlU94vYeicx+eAFdafTCo7kP4YDTVtsQ8YcvOSeTx8fDyd1/cbQ==",
   "success": true,
-  "projectFilePath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/7.SpeedInfo/7.SpeedInfo.csproj",
+  "projectFilePath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/7.SpeedInfo/7.SpeedInfo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

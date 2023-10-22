@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/01.FreezingWeather.csproj": {}
+    "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/01.FreezingWeather/01.FreezingWeather.csproj": {}
   },
   "projects": {
-    "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/01.FreezingWeather.csproj": {
+    "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/01.FreezingWeather/01.FreezingWeather.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/01.FreezingWeather.csproj",
+        "projectUniqueName": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/01.FreezingWeather/01.FreezingWeather.csproj",
         "projectName": "01.FreezingWeather",
-        "projectPath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/01.FreezingWeather.csproj",
+        "projectPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/01.FreezingWeather/01.FreezingWeather.csproj",
         "packagesPath": "/Users/fazla/.nuget/packages/",
-        "outputPath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/obj/",
+        "outputPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/01.FreezingWeather/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fazla/.nuget/NuGet/NuGet.Config"

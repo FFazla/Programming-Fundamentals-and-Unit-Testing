@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bfcGGhjRQsO8DaFwAkLuUUWuD5OLN0NgnfigKBTLUbp5NwnVNdu49qnndTkgxJo6Ns0LBA827UmI9cZvYlWBfA==",
+  "dgSpecHash": "P1l+dTRaPHCZ2aghAbJWoeVVmOsMquwS3pS8pp9MAd+wY4E4x4cjbK3y9oKfjGpppgy89yaPNJUw33kP7qu3wQ==",
   "success": true,
-  "projectFilePath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/01.FreezingWeather/01.FreezingWeather.csproj",
+  "projectFilePath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/01.FreezingWeather/01.FreezingWeather.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

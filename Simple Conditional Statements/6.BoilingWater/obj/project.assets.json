@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/6.BoilingWater.csproj",
+      "projectUniqueName": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/6.BoilingWater/6.BoilingWater.csproj",
       "projectName": "6.BoilingWater",
-      "projectPath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/6.BoilingWater.csproj",
+      "projectPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/6.BoilingWater/6.BoilingWater.csproj",
       "packagesPath": "/Users/fazla/.nuget/packages/",
-      "outputPath": "/Users/fazla/Projects/07.Simple Conditional Statements/ConditionalStatements/6.BoilingWater/obj/",
+      "outputPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/Simple Conditional Statements/6.BoilingWater/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fazla/.nuget/NuGet/NuGet.Config"
