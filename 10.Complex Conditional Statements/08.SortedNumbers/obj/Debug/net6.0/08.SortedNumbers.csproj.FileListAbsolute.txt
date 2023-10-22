@@ -1,0 +1,15 @@
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/bin/Debug/net6.0/08.SortedNumbers
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/bin/Debug/net6.0/08.SortedNumbers.deps.json
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/bin/Debug/net6.0/08.SortedNumbers.runtimeconfig.json
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/bin/Debug/net6.0/08.SortedNumbers.dll
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/bin/Debug/net6.0/08.SortedNumbers.pdb
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/obj/Debug/net6.0/08.SortedNumbers.csproj.AssemblyReference.cache
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/obj/Debug/net6.0/08.SortedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/obj/Debug/net6.0/08.SortedNumbers.AssemblyInfoInputs.cache
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/obj/Debug/net6.0/08.SortedNumbers.AssemblyInfo.cs
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/obj/Debug/net6.0/08.SortedNumbers.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/obj/Debug/net6.0/08.SortedNumbers.dll
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/obj/Debug/net6.0/refint/08.SortedNumbers.dll
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/obj/Debug/net6.0/08.SortedNumbers.pdb
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/obj/Debug/net6.0/08.SortedNumbers.genruntimeconfig.cache
+/Users/fazla/Projects/08.ComplexConditionalStatements/08.SortedNumbers/obj/Debug/net6.0/ref/08.SortedNumbers.dll

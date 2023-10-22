@@ -1,0 +1,15 @@
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/bin/Debug/net6.0/06.DayOfWeek
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/bin/Debug/net6.0/06.DayOfWeek.deps.json
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/bin/Debug/net6.0/06.DayOfWeek.runtimeconfig.json
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/bin/Debug/net6.0/06.DayOfWeek.dll
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/bin/Debug/net6.0/06.DayOfWeek.pdb
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/obj/Debug/net6.0/06.DayOfWeek.csproj.AssemblyReference.cache
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/obj/Debug/net6.0/06.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/obj/Debug/net6.0/06.DayOfWeek.AssemblyInfoInputs.cache
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/obj/Debug/net6.0/06.DayOfWeek.AssemblyInfo.cs
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/obj/Debug/net6.0/06.DayOfWeek.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/obj/Debug/net6.0/06.DayOfWeek.dll
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/obj/Debug/net6.0/refint/06.DayOfWeek.dll
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/obj/Debug/net6.0/06.DayOfWeek.pdb
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/obj/Debug/net6.0/06.DayOfWeek.genruntimeconfig.cache
+/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/obj/Debug/net6.0/ref/06.DayOfWeek.dll

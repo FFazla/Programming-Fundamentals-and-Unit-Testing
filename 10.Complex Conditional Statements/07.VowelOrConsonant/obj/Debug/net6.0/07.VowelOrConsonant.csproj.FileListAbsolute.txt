@@ -1,0 +1,15 @@
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/bin/Debug/net6.0/07.VowelOrConsonant
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/bin/Debug/net6.0/07.VowelOrConsonant.deps.json
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/bin/Debug/net6.0/07.VowelOrConsonant.runtimeconfig.json
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/bin/Debug/net6.0/07.VowelOrConsonant.dll
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/bin/Debug/net6.0/07.VowelOrConsonant.pdb
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/obj/Debug/net6.0/07.VowelOrConsonant.csproj.AssemblyReference.cache
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/obj/Debug/net6.0/07.VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/obj/Debug/net6.0/07.VowelOrConsonant.AssemblyInfoInputs.cache
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/obj/Debug/net6.0/07.VowelOrConsonant.AssemblyInfo.cs
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/obj/Debug/net6.0/07.VowelOrConsonant.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/obj/Debug/net6.0/07.VowelOrConsonant.dll
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/obj/Debug/net6.0/refint/07.VowelOrConsonant.dll
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/obj/Debug/net6.0/07.VowelOrConsonant.pdb
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/obj/Debug/net6.0/07.VowelOrConsonant.genruntimeconfig.cache
+/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/obj/Debug/net6.0/ref/07.VowelOrConsonant.dll
