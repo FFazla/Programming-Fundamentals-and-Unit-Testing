@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/06.DayOfWeek.csproj": {}
+    "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/10.Complex Conditional Statements/06.DayOfWeek/06.DayOfWeek.csproj": {}
   },
   "projects": {
-    "/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/06.DayOfWeek.csproj": {
+    "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/10.Complex Conditional Statements/06.DayOfWeek/06.DayOfWeek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/06.DayOfWeek.csproj",
+        "projectUniqueName": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/10.Complex Conditional Statements/06.DayOfWeek/06.DayOfWeek.csproj",
         "projectName": "06.DayOfWeek",
-        "projectPath": "/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/06.DayOfWeek.csproj",
+        "projectPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/10.Complex Conditional Statements/06.DayOfWeek/06.DayOfWeek.csproj",
         "packagesPath": "/Users/fazla/.nuget/packages/",
-        "outputPath": "/Users/fazla/Projects/08.ComplexConditionalStatements/06.DayOfWeek/obj/",
+        "outputPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/10.Complex Conditional Statements/06.DayOfWeek/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fazla/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
         }
       }
     }

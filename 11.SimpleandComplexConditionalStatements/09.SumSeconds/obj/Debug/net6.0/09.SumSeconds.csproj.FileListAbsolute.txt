@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/bin/Debug/net6.0/09.SumSeconds
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/bin/Debug/net6.0/09.SumSeconds.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/bin/Debug/net6.0/09.SumSeconds.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/bin/Debug/net6.0/09.SumSeconds.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/bin/Debug/net6.0/09.SumSeconds.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/obj/Debug/net6.0/09.SumSeconds.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/obj/Debug/net6.0/09.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/obj/Debug/net6.0/09.SumSeconds.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/obj/Debug/net6.0/09.SumSeconds.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/obj/Debug/net6.0/09.SumSeconds.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/obj/Debug/net6.0/09.SumSeconds.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/obj/Debug/net6.0/refint/09.SumSeconds.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/obj/Debug/net6.0/09.SumSeconds.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/obj/Debug/net6.0/09.SumSeconds.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/09.SumSeconds/obj/Debug/net6.0/ref/09.SumSeconds.dll

@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/bin/Debug/net6.0/02.ATM
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/bin/Debug/net6.0/02.ATM.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/bin/Debug/net6.0/02.ATM.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/bin/Debug/net6.0/02.ATM.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/bin/Debug/net6.0/02.ATM.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/obj/Debug/net6.0/02.ATM.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/obj/Debug/net6.0/02.ATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/obj/Debug/net6.0/02.ATM.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/obj/Debug/net6.0/02.ATM.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/obj/Debug/net6.0/02.ATM.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/obj/Debug/net6.0/02.ATM.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/obj/Debug/net6.0/refint/02.ATM.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/obj/Debug/net6.0/02.ATM.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/obj/Debug/net6.0/02.ATM.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/02.ATM/obj/Debug/net6.0/ref/02.ATM.dll

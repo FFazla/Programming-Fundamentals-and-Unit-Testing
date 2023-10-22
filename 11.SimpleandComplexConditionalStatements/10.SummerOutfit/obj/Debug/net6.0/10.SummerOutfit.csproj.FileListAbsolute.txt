@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/bin/Debug/net6.0/10.SummerOutfit
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/bin/Debug/net6.0/10.SummerOutfit.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/bin/Debug/net6.0/10.SummerOutfit.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/bin/Debug/net6.0/10.SummerOutfit.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/bin/Debug/net6.0/10.SummerOutfit.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/obj/Debug/net6.0/refint/10.SummerOutfit.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/11.SimpleandComplexConditionalStatements/10.SummerOutfit/obj/Debug/net6.0/ref/10.SummerOutfit.dll

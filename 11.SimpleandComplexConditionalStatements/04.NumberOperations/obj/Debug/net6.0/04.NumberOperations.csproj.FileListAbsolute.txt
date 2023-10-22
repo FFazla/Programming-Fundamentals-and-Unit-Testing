@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/bin/Debug/net6.0/04.NumberOperations
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/bin/Debug/net6.0/04.NumberOperations.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/bin/Debug/net6.0/04.NumberOperations.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/bin/Debug/net6.0/04.NumberOperations.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/bin/Debug/net6.0/04.NumberOperations.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/obj/Debug/net6.0/04.NumberOperations.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/obj/Debug/net6.0/04.NumberOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/obj/Debug/net6.0/04.NumberOperations.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/obj/Debug/net6.0/04.NumberOperations.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/obj/Debug/net6.0/04.NumberOperations.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/obj/Debug/net6.0/04.NumberOperations.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/obj/Debug/net6.0/refint/04.NumberOperations.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/obj/Debug/net6.0/04.NumberOperations.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/obj/Debug/net6.0/04.NumberOperations.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/04.NumberOperations/obj/Debug/net6.0/ref/04.NumberOperations.dll

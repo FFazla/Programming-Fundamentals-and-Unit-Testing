@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{E9D9846E-766C-42D3-A6A9-60E479591F95}|Default">
+  <MonoDevelop.Ide.ItemProperties.10.SummerOutfit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.SummerOutfit/Program.cs">
+    <Files>
+      <File FileName="01.NumberType/Program.cs" Line="1" Column="1" />
+      <File FileName="02.ATM/Program.cs" Line="1" Column="1" />
+      <File FileName="03.BiggestofFiveNumbers/Program.cs" Line="35" Column="1" />
+      <File FileName="04.NumberOperations/Program.cs" Line="1" Column="1" />
+      <File FileName="05.VacationExpenses/Program.cs" Line="1" Column="1" />
+      <File FileName="06.ProductofThreeNumbers/Program.cs" Line="36" Column="1" />
+      <File FileName="07.WorkingHours/Program.cs" Line="1" Column="1" />
+      <File FileName="08.InvalidNumber/Program.cs" Line="1" Column="1" />
+      <File FileName="10.SummerOutfit/Program.cs" Line="18" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="11.SimpleandComplexConditionalStatements" expanded="True">
+            <Node name="10.SummerOutfit" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.09.SumSeconds PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.WorkingHours PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.VacationExpenses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.NumberOperations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.06.ProductofThreeNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01.NumberType PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.08.InvalidNumber PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

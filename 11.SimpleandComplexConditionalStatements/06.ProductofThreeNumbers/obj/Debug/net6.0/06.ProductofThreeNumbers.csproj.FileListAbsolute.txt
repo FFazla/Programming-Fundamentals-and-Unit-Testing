@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/obj/Debug/net6.0/06.ProductofThreeNumbers.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/obj/Debug/net6.0/06.ProductofThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/obj/Debug/net6.0/06.ProductofThreeNumbers.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/obj/Debug/net6.0/06.ProductofThreeNumbers.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/obj/Debug/net6.0/06.ProductofThreeNumbers.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/bin/Debug/net6.0/06.ProductofThreeNumbers
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/bin/Debug/net6.0/06.ProductofThreeNumbers.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/bin/Debug/net6.0/06.ProductofThreeNumbers.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/bin/Debug/net6.0/06.ProductofThreeNumbers.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/bin/Debug/net6.0/06.ProductofThreeNumbers.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/obj/Debug/net6.0/06.ProductofThreeNumbers.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/obj/Debug/net6.0/refint/06.ProductofThreeNumbers.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/obj/Debug/net6.0/06.ProductofThreeNumbers.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/obj/Debug/net6.0/06.ProductofThreeNumbers.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/06.ProductofThreeNumbers/obj/Debug/net6.0/ref/06.ProductofThreeNumbers.dll

@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/bin/Debug/net6.0/03.BiggestofFiveNumbers
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/bin/Debug/net6.0/03.BiggestofFiveNumbers.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/bin/Debug/net6.0/03.BiggestofFiveNumbers.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/bin/Debug/net6.0/03.BiggestofFiveNumbers.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/bin/Debug/net6.0/03.BiggestofFiveNumbers.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/obj/Debug/net6.0/03.BiggestofFiveNumbers.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/obj/Debug/net6.0/03.BiggestofFiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/obj/Debug/net6.0/03.BiggestofFiveNumbers.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/obj/Debug/net6.0/03.BiggestofFiveNumbers.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/obj/Debug/net6.0/03.BiggestofFiveNumbers.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/obj/Debug/net6.0/03.BiggestofFiveNumbers.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/obj/Debug/net6.0/refint/03.BiggestofFiveNumbers.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/obj/Debug/net6.0/03.BiggestofFiveNumbers.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/obj/Debug/net6.0/03.BiggestofFiveNumbers.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/03.BiggestofFiveNumbers/obj/Debug/net6.0/ref/03.BiggestofFiveNumbers.dll

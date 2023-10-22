@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/07.VowelOrConsonant.csproj",
+      "projectUniqueName": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/10.Complex Conditional Statements/07.VowelOrConsonant/07.VowelOrConsonant.csproj",
       "projectName": "07.VowelOrConsonant",
-      "projectPath": "/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/07.VowelOrConsonant.csproj",
+      "projectPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/10.Complex Conditional Statements/07.VowelOrConsonant/07.VowelOrConsonant.csproj",
       "packagesPath": "/Users/fazla/.nuget/packages/",
-      "outputPath": "/Users/fazla/Projects/08.ComplexConditionalStatements/07.VowelOrConsonant/obj/",
+      "outputPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/10.Complex Conditional Statements/07.VowelOrConsonant/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fazla/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
       }
     }
   }

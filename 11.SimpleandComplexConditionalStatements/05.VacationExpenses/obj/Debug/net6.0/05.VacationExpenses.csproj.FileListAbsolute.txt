@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/bin/Debug/net6.0/05.VacationExpenses
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/bin/Debug/net6.0/05.VacationExpenses.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/bin/Debug/net6.0/05.VacationExpenses.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/bin/Debug/net6.0/05.VacationExpenses.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/bin/Debug/net6.0/05.VacationExpenses.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/obj/Debug/net6.0/05.VacationExpenses.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/obj/Debug/net6.0/05.VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/obj/Debug/net6.0/05.VacationExpenses.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/obj/Debug/net6.0/05.VacationExpenses.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/obj/Debug/net6.0/05.VacationExpenses.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/obj/Debug/net6.0/05.VacationExpenses.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/obj/Debug/net6.0/refint/05.VacationExpenses.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/obj/Debug/net6.0/05.VacationExpenses.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/obj/Debug/net6.0/05.VacationExpenses.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/05.VacationExpenses/obj/Debug/net6.0/ref/05.VacationExpenses.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fazla/Projects/08.ComplexConditionalStatements/05.FruitOrVegetable/05.FruitOrVegetable.csproj",
+      "projectUniqueName": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/10.Complex Conditional Statements/05.FruitOrVegetable/05.FruitOrVegetable.csproj",
       "projectName": "05.FruitOrVegetable",
-      "projectPath": "/Users/fazla/Projects/08.ComplexConditionalStatements/05.FruitOrVegetable/05.FruitOrVegetable.csproj",
+      "projectPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/10.Complex Conditional Statements/05.FruitOrVegetable/05.FruitOrVegetable.csproj",
       "packagesPath": "/Users/fazla/.nuget/packages/",
-      "outputPath": "/Users/fazla/Projects/08.ComplexConditionalStatements/05.FruitOrVegetable/obj/",
+      "outputPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/10.Complex Conditional Statements/05.FruitOrVegetable/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fazla/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
       }
     }
   }

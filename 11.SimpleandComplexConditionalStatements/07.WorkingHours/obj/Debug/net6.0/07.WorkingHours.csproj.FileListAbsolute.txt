@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/bin/Debug/net6.0/07.WorkingHours
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/bin/Debug/net6.0/07.WorkingHours.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/bin/Debug/net6.0/07.WorkingHours.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/bin/Debug/net6.0/07.WorkingHours.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/bin/Debug/net6.0/07.WorkingHours.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/obj/Debug/net6.0/07.WorkingHours.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/obj/Debug/net6.0/07.WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/obj/Debug/net6.0/07.WorkingHours.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/obj/Debug/net6.0/07.WorkingHours.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/obj/Debug/net6.0/07.WorkingHours.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/obj/Debug/net6.0/07.WorkingHours.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/obj/Debug/net6.0/refint/07.WorkingHours.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/obj/Debug/net6.0/07.WorkingHours.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/obj/Debug/net6.0/07.WorkingHours.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/07.WorkingHours/obj/Debug/net6.0/ref/07.WorkingHours.dll

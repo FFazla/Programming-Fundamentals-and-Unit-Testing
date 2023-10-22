@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/bin/Debug/net6.0/01.NumberType
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/bin/Debug/net6.0/01.NumberType.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/bin/Debug/net6.0/01.NumberType.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/bin/Debug/net6.0/01.NumberType.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/bin/Debug/net6.0/01.NumberType.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/01.NumberType.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/01.NumberType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/01.NumberType.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/01.NumberType.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/01.NumberType.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/01.NumberType.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/refint/01.NumberType.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/01.NumberType.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/01.NumberType.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/01.NumberType/obj/Debug/net6.0/ref/01.NumberType.dll

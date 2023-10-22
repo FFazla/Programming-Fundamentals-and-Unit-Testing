@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/bin/Debug/net6.0/08.InvalidNumber
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/bin/Debug/net6.0/08.InvalidNumber.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/bin/Debug/net6.0/08.InvalidNumber.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/bin/Debug/net6.0/08.InvalidNumber.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/bin/Debug/net6.0/08.InvalidNumber.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/obj/Debug/net6.0/08.InvalidNumber.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/obj/Debug/net6.0/08.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/obj/Debug/net6.0/08.InvalidNumber.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/obj/Debug/net6.0/08.InvalidNumber.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/obj/Debug/net6.0/08.InvalidNumber.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/obj/Debug/net6.0/08.InvalidNumber.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/obj/Debug/net6.0/refint/08.InvalidNumber.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/obj/Debug/net6.0/08.InvalidNumber.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/obj/Debug/net6.0/08.InvalidNumber.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/11.SimpleandComplexConditionalStatements/08.InvalidNumber/obj/Debug/net6.0/ref/08.InvalidNumber.dll
