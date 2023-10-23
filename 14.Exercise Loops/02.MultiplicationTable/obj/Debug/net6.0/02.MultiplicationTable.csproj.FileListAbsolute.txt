@@ -1,0 +1,15 @@
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/bin/Debug/net6.0/02.MultiplicationTable
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/bin/Debug/net6.0/02.MultiplicationTable.deps.json
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/bin/Debug/net6.0/02.MultiplicationTable.runtimeconfig.json
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/bin/Debug/net6.0/02.MultiplicationTable.dll
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/bin/Debug/net6.0/02.MultiplicationTable.pdb
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.csproj.AssemblyReference.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.AssemblyInfoInputs.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.AssemblyInfo.cs
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.dll
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/obj/Debug/net6.0/refint/02.MultiplicationTable.dll
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.pdb
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.genruntimeconfig.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/02.MultiplicationTable/obj/Debug/net6.0/ref/02.MultiplicationTable.dll

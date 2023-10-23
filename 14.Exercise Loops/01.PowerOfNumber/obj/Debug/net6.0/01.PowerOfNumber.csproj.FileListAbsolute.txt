@@ -1,0 +1,15 @@
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/bin/Debug/net6.0/01.PowerOfNumber
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/bin/Debug/net6.0/01.PowerOfNumber.deps.json
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/bin/Debug/net6.0/01.PowerOfNumber.runtimeconfig.json
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/bin/Debug/net6.0/01.PowerOfNumber.dll
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/bin/Debug/net6.0/01.PowerOfNumber.pdb
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/obj/Debug/net6.0/01.PowerOfNumber.csproj.AssemblyReference.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/obj/Debug/net6.0/01.PowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/obj/Debug/net6.0/01.PowerOfNumber.AssemblyInfoInputs.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/obj/Debug/net6.0/01.PowerOfNumber.AssemblyInfo.cs
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/obj/Debug/net6.0/01.PowerOfNumber.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/obj/Debug/net6.0/01.PowerOfNumber.dll
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/obj/Debug/net6.0/refint/01.PowerOfNumber.dll
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/obj/Debug/net6.0/01.PowerOfNumber.pdb
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/obj/Debug/net6.0/01.PowerOfNumber.genruntimeconfig.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/01.PowerOfNumber/obj/Debug/net6.0/ref/01.PowerOfNumber.dll

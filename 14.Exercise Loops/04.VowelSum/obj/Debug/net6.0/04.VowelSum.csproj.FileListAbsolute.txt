@@ -1,0 +1,15 @@
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/bin/Debug/net6.0/04.VowelSum
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/bin/Debug/net6.0/04.VowelSum.deps.json
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/bin/Debug/net6.0/04.VowelSum.runtimeconfig.json
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/bin/Debug/net6.0/04.VowelSum.dll
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/bin/Debug/net6.0/04.VowelSum.pdb
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/obj/Debug/net6.0/04.VowelSum.csproj.AssemblyReference.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/obj/Debug/net6.0/04.VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/obj/Debug/net6.0/04.VowelSum.AssemblyInfoInputs.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/obj/Debug/net6.0/04.VowelSum.AssemblyInfo.cs
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/obj/Debug/net6.0/04.VowelSum.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/obj/Debug/net6.0/04.VowelSum.dll
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/obj/Debug/net6.0/refint/04.VowelSum.dll
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/obj/Debug/net6.0/04.VowelSum.pdb
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/obj/Debug/net6.0/04.VowelSum.genruntimeconfig.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/04.VowelSum/obj/Debug/net6.0/ref/04.VowelSum.dll

@@ -1,0 +1,15 @@
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/bin/Debug/net6.0/03.BiggestNumber
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/bin/Debug/net6.0/03.BiggestNumber.deps.json
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/bin/Debug/net6.0/03.BiggestNumber.runtimeconfig.json
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/bin/Debug/net6.0/03.BiggestNumber.dll
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/bin/Debug/net6.0/03.BiggestNumber.pdb
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/obj/Debug/net6.0/03.BiggestNumber.csproj.AssemblyReference.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/obj/Debug/net6.0/03.BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/obj/Debug/net6.0/03.BiggestNumber.AssemblyInfoInputs.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/obj/Debug/net6.0/03.BiggestNumber.AssemblyInfo.cs
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/obj/Debug/net6.0/03.BiggestNumber.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/obj/Debug/net6.0/03.BiggestNumber.dll
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/obj/Debug/net6.0/refint/03.BiggestNumber.dll
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/obj/Debug/net6.0/03.BiggestNumber.pdb
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/obj/Debug/net6.0/03.BiggestNumber.genruntimeconfig.cache
+/Users/fazla/Projects/04.3.Exercise-Loops/03.BiggestNumber/obj/Debug/net6.0/ref/03.BiggestNumber.dll
