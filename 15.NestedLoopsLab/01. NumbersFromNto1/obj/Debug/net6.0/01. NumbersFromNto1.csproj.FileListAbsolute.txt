@@ -1,0 +1,15 @@
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/bin/Debug/net6.0/01. NumbersFromNto1
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/bin/Debug/net6.0/01. NumbersFromNto1.deps.json
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/bin/Debug/net6.0/01. NumbersFromNto1.runtimeconfig.json
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/bin/Debug/net6.0/01. NumbersFromNto1.dll
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/bin/Debug/net6.0/01. NumbersFromNto1.pdb
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/obj/Debug/net6.0/01. NumbersFromNto1.csproj.AssemblyReference.cache
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/obj/Debug/net6.0/01. NumbersFromNto1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/obj/Debug/net6.0/01. NumbersFromNto1.AssemblyInfoInputs.cache
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/obj/Debug/net6.0/01. NumbersFromNto1.AssemblyInfo.cs
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/obj/Debug/net6.0/01. NumbersFromNto1.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/obj/Debug/net6.0/01. NumbersFromNto1.dll
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/obj/Debug/net6.0/refint/01. NumbersFromNto1.dll
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/obj/Debug/net6.0/01. NumbersFromNto1.pdb
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/obj/Debug/net6.0/01. NumbersFromNto1.genruntimeconfig.cache
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/01. NumbersFromNto1/obj/Debug/net6.0/ref/01. NumbersFromNto1.dll

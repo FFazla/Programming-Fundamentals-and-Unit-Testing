@@ -1,0 +1,15 @@
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/bin/Debug/net6.0/02.EvenPowersOf2
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/bin/Debug/net6.0/02.EvenPowersOf2.deps.json
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/bin/Debug/net6.0/02.EvenPowersOf2.runtimeconfig.json
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/bin/Debug/net6.0/02.EvenPowersOf2.dll
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/bin/Debug/net6.0/02.EvenPowersOf2.pdb
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/obj/Debug/net6.0/02.EvenPowersOf2.csproj.AssemblyReference.cache
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/obj/Debug/net6.0/02.EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/obj/Debug/net6.0/02.EvenPowersOf2.AssemblyInfoInputs.cache
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/obj/Debug/net6.0/02.EvenPowersOf2.AssemblyInfo.cs
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/obj/Debug/net6.0/02.EvenPowersOf2.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/obj/Debug/net6.0/02.EvenPowersOf2.dll
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/obj/Debug/net6.0/refint/02.EvenPowersOf2.dll
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/obj/Debug/net6.0/02.EvenPowersOf2.pdb
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/obj/Debug/net6.0/02.EvenPowersOf2.genruntimeconfig.cache
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/02.EvenPowersOf2/obj/Debug/net6.0/ref/02.EvenPowersOf2.dll

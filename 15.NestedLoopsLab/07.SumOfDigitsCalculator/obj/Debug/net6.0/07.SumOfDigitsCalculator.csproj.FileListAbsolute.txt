@@ -1,0 +1,15 @@
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/bin/Debug/net6.0/07.SumOfDigitsCalculator
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/bin/Debug/net6.0/07.SumOfDigitsCalculator.deps.json
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/bin/Debug/net6.0/07.SumOfDigitsCalculator.runtimeconfig.json
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/bin/Debug/net6.0/07.SumOfDigitsCalculator.dll
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/bin/Debug/net6.0/07.SumOfDigitsCalculator.pdb
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/obj/Debug/net6.0/07.SumOfDigitsCalculator.csproj.AssemblyReference.cache
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/obj/Debug/net6.0/07.SumOfDigitsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/obj/Debug/net6.0/07.SumOfDigitsCalculator.AssemblyInfoInputs.cache
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/obj/Debug/net6.0/07.SumOfDigitsCalculator.AssemblyInfo.cs
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/obj/Debug/net6.0/07.SumOfDigitsCalculator.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/obj/Debug/net6.0/07.SumOfDigitsCalculator.dll
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/obj/Debug/net6.0/refint/07.SumOfDigitsCalculator.dll
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/obj/Debug/net6.0/07.SumOfDigitsCalculator.pdb
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/obj/Debug/net6.0/07.SumOfDigitsCalculator.genruntimeconfig.cache
+/Users/fazla/Projects/05.1.Nested-Loops-Lab/07.SumOfDigitsCalculator/obj/Debug/net6.0/ref/07.SumOfDigitsCalculator.dll
