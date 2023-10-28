@@ -1,0 +1,15 @@
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/bin/Debug/net6.0/02.Grades
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/bin/Debug/net6.0/02.Grades.deps.json
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/bin/Debug/net6.0/02.Grades.runtimeconfig.json
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/bin/Debug/net6.0/02.Grades.dll
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/bin/Debug/net6.0/02.Grades.pdb
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/obj/Debug/net6.0/02.Grades.csproj.AssemblyReference.cache
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/obj/Debug/net6.0/02.Grades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/obj/Debug/net6.0/02.Grades.AssemblyInfoInputs.cache
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/obj/Debug/net6.0/02.Grades.AssemblyInfo.cs
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/obj/Debug/net6.0/02.Grades.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/obj/Debug/net6.0/02.Grades.dll
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/obj/Debug/net6.0/refint/02.Grades.dll
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/obj/Debug/net6.0/02.Grades.pdb
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/obj/Debug/net6.0/02.Grades.genruntimeconfig.cache
+/Users/fazla/Projects/05.2.Methods-Lab/02.Grades/obj/Debug/net6.0/ref/02.Grades.dll

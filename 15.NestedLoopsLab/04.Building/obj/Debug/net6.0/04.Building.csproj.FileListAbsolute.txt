@@ -13,3 +13,18 @@
 /Users/fazla/Projects/05.1.Nested-Loops-Lab/04.Building/obj/Debug/net6.0/04.Building.pdb
 /Users/fazla/Projects/05.1.Nested-Loops-Lab/04.Building/obj/Debug/net6.0/04.Building.genruntimeconfig.cache
 /Users/fazla/Projects/05.1.Nested-Loops-Lab/04.Building/obj/Debug/net6.0/ref/04.Building.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/bin/Debug/net6.0/04.Building
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/bin/Debug/net6.0/04.Building.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/bin/Debug/net6.0/04.Building.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/bin/Debug/net6.0/04.Building.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/bin/Debug/net6.0/04.Building.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/obj/Debug/net6.0/04.Building.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/obj/Debug/net6.0/04.Building.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/obj/Debug/net6.0/04.Building.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/obj/Debug/net6.0/04.Building.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/obj/Debug/net6.0/04.Building.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/obj/Debug/net6.0/04.Building.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/obj/Debug/net6.0/refint/04.Building.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/obj/Debug/net6.0/04.Building.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/obj/Debug/net6.0/04.Building.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/04.Building/obj/Debug/net6.0/ref/04.Building.dll

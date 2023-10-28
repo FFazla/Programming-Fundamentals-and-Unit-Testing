@@ -13,3 +13,18 @@
 /Users/fazla/Projects/05.1.Nested-Loops-Lab/03.TriangleOfStars/obj/Debug/net6.0/03.TriangleOfStars.pdb
 /Users/fazla/Projects/05.1.Nested-Loops-Lab/03.TriangleOfStars/obj/Debug/net6.0/03.TriangleOfStars.genruntimeconfig.cache
 /Users/fazla/Projects/05.1.Nested-Loops-Lab/03.TriangleOfStars/obj/Debug/net6.0/ref/03.TriangleOfStars.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/bin/Debug/net6.0/03.TriangleOfStars
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/bin/Debug/net6.0/03.TriangleOfStars.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/bin/Debug/net6.0/03.TriangleOfStars.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/bin/Debug/net6.0/03.TriangleOfStars.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/bin/Debug/net6.0/03.TriangleOfStars.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/obj/Debug/net6.0/03.TriangleOfStars.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/obj/Debug/net6.0/03.TriangleOfStars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/obj/Debug/net6.0/03.TriangleOfStars.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/obj/Debug/net6.0/03.TriangleOfStars.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/obj/Debug/net6.0/03.TriangleOfStars.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/obj/Debug/net6.0/03.TriangleOfStars.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/obj/Debug/net6.0/refint/03.TriangleOfStars.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/obj/Debug/net6.0/03.TriangleOfStars.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/obj/Debug/net6.0/03.TriangleOfStars.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/obj/Debug/net6.0/ref/03.TriangleOfStars.dll

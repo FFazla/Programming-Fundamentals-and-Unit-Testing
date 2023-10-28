@@ -1,0 +1,15 @@
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/bin/Debug/net6.0/02.MagicNumbers
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/bin/Debug/net6.0/02.MagicNumbers.deps.json
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/bin/Debug/net6.0/02.MagicNumbers.runtimeconfig.json
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/bin/Debug/net6.0/02.MagicNumbers.dll
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/bin/Debug/net6.0/02.MagicNumbers.pdb
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/obj/Debug/net6.0/02.MagicNumbers.csproj.AssemblyReference.cache
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/obj/Debug/net6.0/02.MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/obj/Debug/net6.0/02.MagicNumbers.AssemblyInfoInputs.cache
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/obj/Debug/net6.0/02.MagicNumbers.AssemblyInfo.cs
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/obj/Debug/net6.0/02.MagicNumbers.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/obj/Debug/net6.0/02.MagicNumbers.dll
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/obj/Debug/net6.0/refint/02.MagicNumbers.dll
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/obj/Debug/net6.0/02.MagicNumbers.pdb
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/obj/Debug/net6.0/02.MagicNumbers.genruntimeconfig.cache
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/02.MagicNumbers/obj/Debug/net6.0/ref/02.MagicNumbers.dll

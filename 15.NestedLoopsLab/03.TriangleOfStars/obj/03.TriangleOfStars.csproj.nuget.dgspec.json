@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fazla/Projects/05.1.Nested-Loops-Lab/03.TriangleOfStars/03.TriangleOfStars.csproj": {}
+    "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/03.TriangleOfStars.csproj": {}
   },
   "projects": {
-    "/Users/fazla/Projects/05.1.Nested-Loops-Lab/03.TriangleOfStars/03.TriangleOfStars.csproj": {
+    "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/03.TriangleOfStars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fazla/Projects/05.1.Nested-Loops-Lab/03.TriangleOfStars/03.TriangleOfStars.csproj",
+        "projectUniqueName": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/03.TriangleOfStars.csproj",
         "projectName": "03.TriangleOfStars",
-        "projectPath": "/Users/fazla/Projects/05.1.Nested-Loops-Lab/03.TriangleOfStars/03.TriangleOfStars.csproj",
+        "projectPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/03.TriangleOfStars.csproj",
         "packagesPath": "/Users/fazla/.nuget/packages/",
-        "outputPath": "/Users/fazla/Projects/05.1.Nested-Loops-Lab/03.TriangleOfStars/obj/",
+        "outputPath": "/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/15.NestedLoopsLab/03.TriangleOfStars/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fazla/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/bin/Debug/net6.0/04.LetterCombinations
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/bin/Debug/net6.0/04.LetterCombinations.deps.json
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/bin/Debug/net6.0/04.LetterCombinations.runtimeconfig.json
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/bin/Debug/net6.0/04.LetterCombinations.dll
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/bin/Debug/net6.0/04.LetterCombinations.pdb
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/obj/Debug/net6.0/04.LetterCombinations.csproj.AssemblyReference.cache
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/obj/Debug/net6.0/04.LetterCombinations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/obj/Debug/net6.0/04.LetterCombinations.AssemblyInfoInputs.cache
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/obj/Debug/net6.0/04.LetterCombinations.AssemblyInfo.cs
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/obj/Debug/net6.0/04.LetterCombinations.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/obj/Debug/net6.0/04.LetterCombinations.dll
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/obj/Debug/net6.0/refint/04.LetterCombinations.dll
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/obj/Debug/net6.0/04.LetterCombinations.pdb
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/obj/Debug/net6.0/04.LetterCombinations.genruntimeconfig.cache
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/04.LetterCombinations/obj/Debug/net6.0/ref/04.LetterCombinations.dll

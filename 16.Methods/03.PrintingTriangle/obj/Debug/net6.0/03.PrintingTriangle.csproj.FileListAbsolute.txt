@@ -1,0 +1,15 @@
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/bin/Debug/net6.0/03.PrintingTriangle
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/bin/Debug/net6.0/03.PrintingTriangle.deps.json
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/bin/Debug/net6.0/03.PrintingTriangle.runtimeconfig.json
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/bin/Debug/net6.0/03.PrintingTriangle.dll
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/bin/Debug/net6.0/03.PrintingTriangle.pdb
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/obj/Debug/net6.0/03.PrintingTriangle.csproj.AssemblyReference.cache
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/obj/Debug/net6.0/03.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/obj/Debug/net6.0/03.PrintingTriangle.AssemblyInfoInputs.cache
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/obj/Debug/net6.0/03.PrintingTriangle.AssemblyInfo.cs
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/obj/Debug/net6.0/03.PrintingTriangle.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/obj/Debug/net6.0/03.PrintingTriangle.dll
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/obj/Debug/net6.0/refint/03.PrintingTriangle.dll
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/obj/Debug/net6.0/03.PrintingTriangle.pdb
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/obj/Debug/net6.0/03.PrintingTriangle.genruntimeconfig.cache
+/Users/fazla/Projects/05.2.Methods-Lab/03.PrintingTriangle/obj/Debug/net6.0/ref/03.PrintingTriangle.dll

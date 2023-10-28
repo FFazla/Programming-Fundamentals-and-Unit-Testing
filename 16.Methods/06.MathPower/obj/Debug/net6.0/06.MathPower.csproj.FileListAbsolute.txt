@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/bin/Debug/net6.0/06.MathPower
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/bin/Debug/net6.0/06.MathPower.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/bin/Debug/net6.0/06.MathPower.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/bin/Debug/net6.0/06.MathPower.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/bin/Debug/net6.0/06.MathPower.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/obj/Debug/net6.0/06.MathPower.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/obj/Debug/net6.0/06.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/obj/Debug/net6.0/06.MathPower.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/obj/Debug/net6.0/06.MathPower.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/obj/Debug/net6.0/06.MathPower.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/obj/Debug/net6.0/06.MathPower.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/obj/Debug/net6.0/refint/06.MathPower.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/obj/Debug/net6.0/06.MathPower.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/obj/Debug/net6.0/06.MathPower.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/16.Methods/06.MathPower/obj/Debug/net6.0/ref/06.MathPower.dll

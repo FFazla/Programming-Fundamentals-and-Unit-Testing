@@ -1,0 +1,15 @@
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/bin/Debug/net6.0/03.UniquePINCodes
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/bin/Debug/net6.0/03.UniquePINCodes.deps.json
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/bin/Debug/net6.0/03.UniquePINCodes.runtimeconfig.json
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/bin/Debug/net6.0/03.UniquePINCodes.dll
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/bin/Debug/net6.0/03.UniquePINCodes.pdb
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/obj/Debug/net6.0/03.UniquePINCodes.csproj.AssemblyReference.cache
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/obj/Debug/net6.0/03.UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/obj/Debug/net6.0/03.UniquePINCodes.AssemblyInfoInputs.cache
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/obj/Debug/net6.0/03.UniquePINCodes.AssemblyInfo.cs
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/obj/Debug/net6.0/03.UniquePINCodes.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/obj/Debug/net6.0/03.UniquePINCodes.dll
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/obj/Debug/net6.0/refint/03.UniquePINCodes.dll
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/obj/Debug/net6.0/03.UniquePINCodes.pdb
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/obj/Debug/net6.0/03.UniquePINCodes.genruntimeconfig.cache
+/Users/fazla/Projects/05.3NestedLoopsАndMethodЕxercise/03.UniquePINCodes/obj/Debug/net6.0/ref/03.UniquePINCodes.dll
