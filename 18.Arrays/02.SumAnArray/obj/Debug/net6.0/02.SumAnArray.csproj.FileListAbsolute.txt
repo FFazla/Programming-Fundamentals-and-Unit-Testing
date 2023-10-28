@@ -1,0 +1,15 @@
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/bin/Debug/net6.0/02.SumAnArray
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/bin/Debug/net6.0/02.SumAnArray.deps.json
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/bin/Debug/net6.0/02.SumAnArray.runtimeconfig.json
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/bin/Debug/net6.0/02.SumAnArray.dll
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/bin/Debug/net6.0/02.SumAnArray.pdb
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/obj/Debug/net6.0/02.SumAnArray.csproj.AssemblyReference.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/obj/Debug/net6.0/02.SumAnArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/obj/Debug/net6.0/02.SumAnArray.AssemblyInfoInputs.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/obj/Debug/net6.0/02.SumAnArray.AssemblyInfo.cs
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/obj/Debug/net6.0/02.SumAnArray.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/obj/Debug/net6.0/02.SumAnArray.dll
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/obj/Debug/net6.0/refint/02.SumAnArray.dll
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/obj/Debug/net6.0/02.SumAnArray.pdb
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/obj/Debug/net6.0/02.SumAnArray.genruntimeconfig.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/02.SumAnArray/obj/Debug/net6.0/ref/02.SumAnArray.dll

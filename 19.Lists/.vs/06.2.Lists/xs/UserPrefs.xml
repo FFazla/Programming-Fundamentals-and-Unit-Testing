@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{139725FE-34C2-414B-BDDC-C84CDC4BBD5F}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.ChangeList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.ListOfProducts/Program.cs">
+    <Files>
+      <File FileName="01.ChangeList/Program.cs" Line="1" Column="1" />
+      <File FileName="02.ListOfProducts/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="06.2.Lists" expanded="True">
+            <Node name="01.ChangeList" expanded="True" />
+            <Node name="02.ListOfProducts" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

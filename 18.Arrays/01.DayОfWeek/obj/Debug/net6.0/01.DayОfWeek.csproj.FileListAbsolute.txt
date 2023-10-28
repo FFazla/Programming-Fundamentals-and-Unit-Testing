@@ -1,0 +1,15 @@
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/bin/Debug/net6.0/01.DayОfWeek
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/bin/Debug/net6.0/01.DayОfWeek.deps.json
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/bin/Debug/net6.0/01.DayОfWeek.runtimeconfig.json
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/bin/Debug/net6.0/01.DayОfWeek.dll
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/bin/Debug/net6.0/01.DayОfWeek.pdb
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/obj/Debug/net6.0/01.DayОfWeek.csproj.AssemblyReference.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/obj/Debug/net6.0/01.DayОfWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/obj/Debug/net6.0/01.DayОfWeek.AssemblyInfoInputs.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/obj/Debug/net6.0/01.DayОfWeek.AssemblyInfo.cs
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/obj/Debug/net6.0/01.DayОfWeek.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/obj/Debug/net6.0/01.DayОfWeek.dll
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/obj/Debug/net6.0/refint/01.DayОfWeek.dll
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/obj/Debug/net6.0/01.DayОfWeek.pdb
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/obj/Debug/net6.0/01.DayОfWeek.genruntimeconfig.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/01.DayОfWeek/obj/Debug/net6.0/ref/01.DayОfWeek.dll

@@ -1,0 +1,15 @@
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/bin/Debug/net6.0/04.EvenAndOddSubtraction
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/bin/Debug/net6.0/04.EvenAndOddSubtraction.deps.json
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/bin/Debug/net6.0/04.EvenAndOddSubtraction.runtimeconfig.json
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/bin/Debug/net6.0/04.EvenAndOddSubtraction.dll
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/bin/Debug/net6.0/04.EvenAndOddSubtraction.pdb
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/obj/Debug/net6.0/04.EvenAndOddSubtraction.csproj.AssemblyReference.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/obj/Debug/net6.0/04.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/obj/Debug/net6.0/04.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/obj/Debug/net6.0/04.EvenAndOddSubtraction.AssemblyInfo.cs
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/obj/Debug/net6.0/04.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/obj/Debug/net6.0/04.EvenAndOddSubtraction.dll
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/obj/Debug/net6.0/refint/04.EvenAndOddSubtraction.dll
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/obj/Debug/net6.0/04.EvenAndOddSubtraction.pdb
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/obj/Debug/net6.0/04.EvenAndOddSubtraction.genruntimeconfig.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/04.EvenAndOddSubtraction/obj/Debug/net6.0/ref/04.EvenAndOddSubtraction.dll

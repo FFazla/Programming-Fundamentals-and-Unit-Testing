@@ -1,0 +1,15 @@
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/bin/Debug/net6.0/03.ReverseAnArray
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/bin/Debug/net6.0/03.ReverseAnArray.deps.json
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/bin/Debug/net6.0/03.ReverseAnArray.runtimeconfig.json
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/bin/Debug/net6.0/03.ReverseAnArray.dll
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/bin/Debug/net6.0/03.ReverseAnArray.pdb
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/obj/Debug/net6.0/03.ReverseAnArray.csproj.AssemblyReference.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/obj/Debug/net6.0/03.ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/obj/Debug/net6.0/03.ReverseAnArray.AssemblyInfoInputs.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/obj/Debug/net6.0/03.ReverseAnArray.AssemblyInfo.cs
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/obj/Debug/net6.0/03.ReverseAnArray.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/obj/Debug/net6.0/03.ReverseAnArray.dll
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/obj/Debug/net6.0/refint/03.ReverseAnArray.dll
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/obj/Debug/net6.0/03.ReverseAnArray.pdb
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/obj/Debug/net6.0/03.ReverseAnArray.genruntimeconfig.cache
+/Users/fazla/Projects/06.1.Arrays-Lab/03.ReverseAnArray/obj/Debug/net6.0/ref/03.ReverseAnArray.dll
