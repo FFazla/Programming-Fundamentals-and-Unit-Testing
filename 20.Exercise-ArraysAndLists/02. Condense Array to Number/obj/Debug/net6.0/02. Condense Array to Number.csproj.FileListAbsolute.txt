@@ -1,0 +1,15 @@
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/bin/Debug/net6.0/02. Condense Array to Number
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/bin/Debug/net6.0/02. Condense Array to Number.deps.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/bin/Debug/net6.0/02. Condense Array to Number.runtimeconfig.json
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/bin/Debug/net6.0/02. Condense Array to Number.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/bin/Debug/net6.0/02. Condense Array to Number.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/obj/Debug/net6.0/02. Condense Array to Number.csproj.AssemblyReference.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/obj/Debug/net6.0/02. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/obj/Debug/net6.0/02. Condense Array to Number.AssemblyInfoInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/obj/Debug/net6.0/02. Condense Array to Number.AssemblyInfo.cs
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/obj/Debug/net6.0/02. Condense Array to Number.csproj.CoreCompileInputs.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/obj/Debug/net6.0/02. Condense Array to Number.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/obj/Debug/net6.0/refint/02. Condense Array to Number.dll
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/obj/Debug/net6.0/02. Condense Array to Number.pdb
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/obj/Debug/net6.0/02. Condense Array to Number.genruntimeconfig.cache
+/Users/fazla/Documents/QA /Programing Fundamentals/Programming-Fundamentals-and-Unit-Testing/20.Exercise-ArraysAndLists/02. Condense Array to Number/obj/Debug/net6.0/ref/02. Condense Array to Number.dll
