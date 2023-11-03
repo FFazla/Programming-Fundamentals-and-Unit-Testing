@@ -1,0 +1,45 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp.UnitTests/FactorialTests.cs">
+    <Files>
+      <File FileName="TestApp/StringReverse.cs" Line="1" Column="1" />
+      <File FileName="TestApp.UnitTests/StringReverseTests.cs" Line="38" Column="6" />
+      <File FileName="TestApp.UnitTests/CalculateTests.cs" Line="1" Column="1" />
+      <File FileName="TestApp/Triangle.cs" Line="1" Column="1" />
+      <File FileName="TestApp.UnitTests/TriangleTests.cs" Line="55" Column="14" />
+      <File FileName="TestApp.UnitTests/GradesTests.cs" Line="26" Column="33" />
+      <File FileName="TestApp/Grades.cs" Line="1" Column="1" />
+      <File FileName="TestApp.UnitTests/FactorialTests.cs" Line="18" Column="1" />
+      <File FileName="TestApp/Factorial.cs" Line="11" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnitTestingMethods" expanded="True">
+            <Node name="TestApp" expanded="True" />
+            <Node name="TestApp.UnitTests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="FactorialTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="UnitTestingMethods">
+            <Node name="TestApp.UnitTests" expanded="True">
+              <Node name="TestApp.UnitTests" expanded="True">
+                <Node name="GradesTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

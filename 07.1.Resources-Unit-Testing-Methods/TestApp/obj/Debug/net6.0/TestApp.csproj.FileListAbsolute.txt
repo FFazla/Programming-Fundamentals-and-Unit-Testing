@@ -1,0 +1,12 @@
+/Users/fazla/Desktop/QA /07.1.Resources-Unit-Testing-Methods/TestApp/bin/Debug/net6.0/TestApp.deps.json
+/Users/fazla/Desktop/QA /07.1.Resources-Unit-Testing-Methods/TestApp/bin/Debug/net6.0/TestApp.dll
+/Users/fazla/Desktop/QA /07.1.Resources-Unit-Testing-Methods/TestApp/bin/Debug/net6.0/TestApp.pdb
+/Users/fazla/Desktop/QA /07.1.Resources-Unit-Testing-Methods/TestApp/obj/Debug/net6.0/TestApp.csproj.AssemblyReference.cache
+/Users/fazla/Desktop/QA /07.1.Resources-Unit-Testing-Methods/TestApp/obj/Debug/net6.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Desktop/QA /07.1.Resources-Unit-Testing-Methods/TestApp/obj/Debug/net6.0/TestApp.AssemblyInfoInputs.cache
+/Users/fazla/Desktop/QA /07.1.Resources-Unit-Testing-Methods/TestApp/obj/Debug/net6.0/TestApp.AssemblyInfo.cs
+/Users/fazla/Desktop/QA /07.1.Resources-Unit-Testing-Methods/TestApp/obj/Debug/net6.0/TestApp.csproj.CoreCompileInputs.cache
+/Users/fazla/Desktop/QA /07.1.Resources-Unit-Testing-Methods/TestApp/obj/Debug/net6.0/TestApp.dll
+/Users/fazla/Desktop/QA /07.1.Resources-Unit-Testing-Methods/TestApp/obj/Debug/net6.0/refint/TestApp.dll
+/Users/fazla/Desktop/QA /07.1.Resources-Unit-Testing-Methods/TestApp/obj/Debug/net6.0/TestApp.pdb
+/Users/fazla/Desktop/QA /07.1.Resources-Unit-Testing-Methods/TestApp/obj/Debug/net6.0/ref/TestApp.dll
