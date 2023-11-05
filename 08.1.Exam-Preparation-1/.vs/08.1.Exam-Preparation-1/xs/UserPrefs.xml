@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CD09CE93-E24E-4A17-ABC7-316EBBB63F9A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02. Middle Elements/Program.cs">
+    <Files>
+      <File FileName="1. Sum Factorial Even Digits/Program.cs" Line="18" Column="3" />
+      <File FileName="02. Middle Elements/Program.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="08.1.Exam-Preparation-1" expanded="True">
+            <Node name="01. Sum Factorial Even Digits" expanded="True" />
+            <Node name="02. Middle Elements" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02._220Middle_220Elements PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01._220Sum_220Factorial_220Even_220Digits PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

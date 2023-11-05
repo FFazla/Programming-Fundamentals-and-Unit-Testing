@@ -1,0 +1,12 @@
+/Users/fazla/Projects/Exam-Preparation-2-Resources/04-LIS-Resources/TestApp/bin/Debug/net6.0/TestApp.deps.json
+/Users/fazla/Projects/Exam-Preparation-2-Resources/04-LIS-Resources/TestApp/bin/Debug/net6.0/TestApp.dll
+/Users/fazla/Projects/Exam-Preparation-2-Resources/04-LIS-Resources/TestApp/bin/Debug/net6.0/TestApp.pdb
+/Users/fazla/Projects/Exam-Preparation-2-Resources/04-LIS-Resources/TestApp/obj/Debug/net6.0/TestApp.csproj.AssemblyReference.cache
+/Users/fazla/Projects/Exam-Preparation-2-Resources/04-LIS-Resources/TestApp/obj/Debug/net6.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazla/Projects/Exam-Preparation-2-Resources/04-LIS-Resources/TestApp/obj/Debug/net6.0/TestApp.AssemblyInfoInputs.cache
+/Users/fazla/Projects/Exam-Preparation-2-Resources/04-LIS-Resources/TestApp/obj/Debug/net6.0/TestApp.AssemblyInfo.cs
+/Users/fazla/Projects/Exam-Preparation-2-Resources/04-LIS-Resources/TestApp/obj/Debug/net6.0/TestApp.csproj.CoreCompileInputs.cache
+/Users/fazla/Projects/Exam-Preparation-2-Resources/04-LIS-Resources/TestApp/obj/Debug/net6.0/TestApp.dll
+/Users/fazla/Projects/Exam-Preparation-2-Resources/04-LIS-Resources/TestApp/obj/Debug/net6.0/refint/TestApp.dll
+/Users/fazla/Projects/Exam-Preparation-2-Resources/04-LIS-Resources/TestApp/obj/Debug/net6.0/TestApp.pdb
+/Users/fazla/Projects/Exam-Preparation-2-Resources/04-LIS-Resources/TestApp/obj/Debug/net6.0/ref/TestApp.dll

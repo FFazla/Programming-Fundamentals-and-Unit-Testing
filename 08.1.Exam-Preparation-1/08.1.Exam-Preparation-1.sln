@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sum Factorial Even Digits", "1. Sum Factorial Even Digits\01. Sum Factorial Even Digits.csproj", "{E7294F55-762D-41AD-9058-5D446CA3AC74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Middle Elements", "02. Middle Elements\02. Middle Elements.csproj", "{CD09CE93-E24E-4A17-ABC7-316EBBB63F9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7294F55-762D-41AD-9058-5D446CA3AC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7294F55-762D-41AD-9058-5D446CA3AC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7294F55-762D-41AD-9058-5D446CA3AC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7294F55-762D-41AD-9058-5D446CA3AC74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD09CE93-E24E-4A17-ABC7-316EBBB63F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD09CE93-E24E-4A17-ABC7-316EBBB63F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD09CE93-E24E-4A17-ABC7-316EBBB63F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD09CE93-E24E-4A17-ABC7-316EBBB63F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C7DDF79-3EE1-4278-8876-0066D4FE1859}
+	EndGlobalSection
+EndGlobal
